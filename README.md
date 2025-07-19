@@ -1,6 +1,6 @@
 # Python-workshop-2025
 
-This is the repo for 2025 python workshop held both by SSTIA department in JI.
+This is the repo for 2025 python workshop held by SSTIA department in JI.
 
 - Part 1 (By myf): Basic python knowledge.
 - Part 2 (By ps): To use matplotlib, statsmodels, and numpy.
